@@ -1,5 +1,5 @@
-# RTL_Codes
-Hello! These are my RTL design codes which I have done and stimulated. These design codes are HDL and HDVL language that is Verilog and System Verilog. I will try my best to design all possible codes using verilog and system verilog.
+# Sync_Fifo
 
+A synchronous FIFO (First-In-First-Out) is a digital circuit that is used to transfer data between the same clock domain and the main function is to buffer data when the rate of data transfer is faster than the rate of data processing.
 
 Thank you!!
